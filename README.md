@@ -14,7 +14,7 @@ To build an efficient and lightweight email spam detector that achieves 90%+ acc
 
 - **Source:** [Kaggle - SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 - **Columns:**
-  - `label`: `spam` or `ham`
+  - `label`: `spam`
   - `text`: the actual SMS/email content
 
 ---
